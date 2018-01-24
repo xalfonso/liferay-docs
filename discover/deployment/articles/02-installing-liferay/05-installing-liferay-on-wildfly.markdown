@@ -30,7 +30,7 @@ Some JARs in the bundle are not strictly required but can still be useful. If
 you don't have a @product@ Wildfly bundle, you can download the required JARs from
 third-parties, as described below.
 
-1. Create the folder `$WILDFLY_HOME/modules/com/liferay/portal/main`. Unzip the
+1. Create the folder `$WILDFLY_HOME/modules/com/liferay/portal/main`. Unzip
    the @product@ Dependencies zip file and copy the `.jar` files to this
    folder. 
 
